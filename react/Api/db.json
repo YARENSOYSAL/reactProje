@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Mahmut Soysal",
+      "salary": "700.000",
+      "department": "kuaför",
+      "id": "NYwYw2-"
+    },
+    {
+      "name": "abdi soysal",
+      "salary": "50.000",
+      "department": "hava yollari",
+      "id": "V7cqIUQ"
+    },
+    {
+      "name": "Ahmet Serkan Burul",
+      "salary": "1.000.000",
+      "department": "hava yolları",
+      "id": "f0KQ0Rt"
+    },
+    {
+      "name": "yaren soysal",
+      "salary": "50.000",
+      "department": "arge",
+      "id": "9xVS7BQ"
+    },
+    {
+      "name": "hale ardıç",
+      "salary": "2.000.000.000",
+      "department": "arge ",
+      "id": "Eg7VWg7"
+    },
+    {
+      "id": "24d5",
+      "name": "yaren soysal",
+      "salary": "2.000.000.000",
+      "department": "arge "
+    }
+  ]
+}
